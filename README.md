@@ -16,7 +16,7 @@ One Paragraph of project description goes here
 
 | Stack | Arborescence  | Couche Presentation |Couche Service/Business |Couche DAO |Couche REST API |Configuration |
 | :---         |     :---:      |          ---: |         ---: |          ---: |          ---: |        ---: |
-| JAVA JEE | git status     | git status    | git status    | git status    | git status    | git status    |
+| JAVA JEE | ![Alt text](/archi/images/springboot-project-structure.png?raw=true "Spring Boot")    | git status    | git status    | git status    | git status    | git status    |
 | PHP Laravel    | git diff       | git diff      | git status    | git status    | git status    | git status    |
 | .NET    | git diff       | git diff      | git status    | git status    | git status    | git status    |
 | Python Django     | git diff       | git diff      | git status    | git status    | git status    | git status    |
