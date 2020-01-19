@@ -25,11 +25,16 @@ One Paragraph of project description goes here
 
 
 ## Tableau de comaparision Architecture Mobile Hybride  :  IONIC/ReactNative /Flutter/Native Script
-
+| Stack | Arborescence  | Couche Presentation |Couche Service/Business |Couche DAO |Couche Entity/DB |Couche REST API |Configuration |
+| :---         |     :---:      |          ---: |         ---: |          ---: |          ---: |        ---: |        ---: |
+| JAVA JEE | ![Alt text](/archi/images/springboot-project-structure.png?raw=true "Spring Boot")    | git status    | git status    | git status    | git status    | git status    |git status    |
+| PHP Laravel    | git diff       | git diff      | git status    | git status    | git status    | git status    |git status    |
 
 ## Tableau de comaparision Architecture Mobile     :  JAVA Android/ Kotlin / Code Name One
-
-
+| Stack | Arborescence  | Couche Presentation |Couche Service/Business |Couche DAO |Couche Entity/DB |Couche REST API |Configuration |
+| :---         |     :---:      |          ---: |         ---: |          ---: |          ---: |        ---: |        ---: |
+| JAVA JEE | ![Alt text](/archi/images/springboot-project-structure.png?raw=true "Spring Boot")    | git status    | git status    | git status    | git status    | git status    |git status    |
+| PHP Laravel    | git diff       | git diff      | git status    | git status    | git status    | git status    |git status    |
 ## Bibliograhie
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
