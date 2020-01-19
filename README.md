@@ -38,5 +38,7 @@ One Paragraph of project description goes here
 ## Bibliograhie
 
 * [Ionic Framework](https://medium.com/@supunsandeeptha/understanding-the-folder-structure-of-ionic-4798e4345587) - Understanding the Folder Structure of Ionic Framework
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [android-tutorial](https://www.javatpoint.com/android-tutorial) - Android-Tutorial
+* [IBM  strongloop](https://strongloop.com/projects/) - LoopBack: Implement your REST API.
+-API Microgateway: Protect, enrich, and control access to API services.
+-OpenAPI-to-GraphQL: Create a fully functional GraphQL wrapper for existing REST(-like) APIs, described by an Open API Specification (OAS) or Swagger.
