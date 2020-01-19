@@ -37,6 +37,6 @@ One Paragraph of project description goes here
 | PHP Laravel    | git diff       | git diff      | git status    | git status    | git status    | git status    |git status    |
 ## Bibliograhie
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Ionic Framework](https://medium.com/@supunsandeeptha/understanding-the-folder-structure-of-ionic-4798e4345587) - Understanding the Folder Structure of Ionic Framework
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
